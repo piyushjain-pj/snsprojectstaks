@@ -102,11 +102,12 @@
 
         }
         .btn-cus {
-            width: 215px;
-            background-color: rgb(50, 50, 221) !important;
-            border: 1px solid rgb(50, 50, 221) !important;
-            border-radius: 2%;
-            height: 50px;
+    width: 215px;
+    background-color: rgb(50, 50, 173) !important;
+    border: 1px solid rgb(50, 50, 221) !important;
+    border-radius: 3%;
+    height: 50px;
+}
         }
         .btn-div {
             max-width: 19% !important;
