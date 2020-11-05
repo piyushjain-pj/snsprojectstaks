@@ -1,0 +1,228 @@
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        body{
+              background-color: #f6f6f6;
+
+        }
+        .sec-1-text {
+            font-size: 34px;
+            font-family: pragmatica medium;
+            color: rgba(8, 8, 8, 0.708);
+
+        }
+
+        .banner-1{
+            position: relative;
+            text-align: center;
+        }
+
+        .banner-text-1 {
+            position: absolute;
+            font-size: 20px;
+            top: 5%;
+            left: 50%;
+            color: rgba(50, 50, 50, 0.701);
+            transform: translate(-50%, -50%);
+            text-transform: uppercase;
+        }
+
+        .banner-text-2 {
+            position: absolute;
+            top: 95%;
+            left: 50%;
+            font-size: 33px!important;
+            transform: translate(-50%, -50%);
+            text-transform: uppercase;
+            color: rgba(255, 255, 255, 0.556);
+            font-size: larger;
+
+        }
+        .offer-car-bg{
+            position: relative;
+            text-align: left;
+            
+
+        }
+        .offer-car-text-1{
+            position: absolute;
+            top: 36%;
+            left: 32%;
+            height: 300px;
+            transform: translate(-50%, -50%);
+            color: white;
+
+        }
+        .def {
+            color: darkgrey;
+            font-size: 13px;
+
+        }
+        .offer-car-text-2{
+            position: absolute;
+            top: 95%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+            font-size: larger;
+
+        }
+        .offer-car-text-3 {
+            position: absolute;
+            top: 92%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+            font-size: 11px;
+            text-align: center;
+            text-justify: auto;
+            color: rgba(0, 0, 0, 0.646);
+        }
+        .offer-car {
+            position: absolute;
+            left: 20%;
+            margin-top: 5px;
+        }
+
+        .offer-car>p {
+            color: white;
+        }
+
+        .offer-car-hr {
+            top: 60%;
+            right: -15%;
+            width: 65%;
+            position: absolute;
+            align-content: center;
+            transform: translate(-50%, -50%);
+        }
+        .car-hr{
+            border: 2px solid blue;
+            border-bottom: 2px;
+
+        }
+        .btn-cus {
+    width: 215px;
+    background-color: rgb(50, 50, 173) !important;
+    border: 1px solid rgb(50, 50, 221) !important;
+    border-radius: 3%;
+    height: 50px;
+}
+    
+        .btn-div {
+            max-width: 19% !important;
+        }
+        .new5 {
+
+            border: 3px solid rgb(50, 50, 221);
+            border-top: 5px;
+
+        }
+        .btn-div-car {
+            position: absolute;
+            position: absolute;
+            top: 68%;
+            right: 63%;
+        }
+
+        .sec-2{
+            background-color: 	#f6f6f6;
+        }
+        .sec-3{
+            background-color:#f6f6f6;
+        }
+        .sec-3-img{
+            background-image: url('../img/GIVE-IN-TO-THE-FEELING.jpg');
+            background-repeat: no-repeat;
+            background-size: cover;
+            height: 425px;
+            border-bottom: 2px solid rgb(21, 21, 173) ;
+        }
+        .sec-3-img-text{
+            background-color: white;
+            color: rgb(26, 25, 25);
+        }
+
+        
+        .sec-6{
+            height: 250px;
+        }
+
+        .sec-content-1{
+            position: relative;
+                text-align: center;
+
+            }
+
+
+        .sec-car-img-1{
+            position: absolute;
+            top: 71%;
+            left: 36%;
+            transform: translate(-50%, -50%);
+            color: white;
+            width: 103%;
+
+            }
+        .sec-car-img-2{
+            position: absolute;
+            top: 30%;
+            left: 54%;
+            }
+
+        .sec-8-car-img-1{
+                position: absolute;
+                top: 35%;
+                left: 21%;
+            }
+        .sec-8-car-img-2{
+            position: absolute;
+            top: 71%;
+            left: 66%;
+            transform: translate(-50%, -50%);
+            color: white;
+            width: 33%;
+
+
+        }
+        .footer-1{
+            background-color: white;
+            color: rgb(15, 14, 14);
+            width: 100%;
+            height: 700px;
+        }
+        .footer-1-btn button{
+            height:60px;
+            width:280px;
+            border-radius: 1%;
+            text-transform: capitalize;
+            font-size: larger;
+            font-weight: 600;
+
+        }
+
+        .footer-1 .card{
+            border: 0;
+        }
+
+        .footer-btn-bg{
+
+           background-color: 	#F8F8F8;
+        }
+        .footer-1 img
+        {
+            width: 75%;
+            position: absolute;
+            top: 185px;
+            right: 82px;
+        }
+        .footer-1 .img-2{
+        position: absolute;
+        top: 185px;
+        right: 150px;
+
+        }
+        
+
+    
